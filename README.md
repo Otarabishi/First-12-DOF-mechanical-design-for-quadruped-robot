@@ -2,7 +2,7 @@
 
 # First 12-DOF Mechanical Design for Quadruped Robot
 
-![Robot Design](dogm1.jpg)
+![Robot Design](dogm1.png)
 
 ## 1. Overview
 This repository contains the first conceptual 12 Degrees of Freedom (DOF) quadruped robot mechanical design. It was modeled in Tinkercad to explore static stability, structural dimensions, and joint kinematics. This mechanical base serves as the foundational framework for implementing AI-driven locomotion algorithms.
